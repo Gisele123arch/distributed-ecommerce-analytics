@@ -1,0 +1,7 @@
+.venv/
+hbase-source/
+__pycache__/
+*.pyc
+*.crc
+_SUCCESS
+.DS_Store
